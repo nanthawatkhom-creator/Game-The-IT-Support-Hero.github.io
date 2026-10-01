@@ -57,17 +57,15 @@
 
 > *คุณสามารถนำภาพ Screenshot แคปเจอร์จากในเกมมาแทนที่ลิงก์รูปภาพด้านล่างนี้ได้เลยครับ*
 
-| 🕹️ หน้าจอหลัก & เริ่มเกม (Main Menu) | 🏃 มินิเกมซ่อมสายไฟในออฟฟิศ (Gameplay) |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/08e33d4b-d87f-4707-91c0-80d996d3b574" windth="100%" />
-| <img src="https://github.com/user-attachments/assets/eda3f378-a5bd-493d-83e9-d76195371563" windth="100%" /> |
+## 🖼️ ภาพถ่ายหน้าจอในเกม (Screenshots Gallery)
 
-| 🥊 เผชิญหน้า Hacker (Hacker Alert!) | 💻 มินิเกมพิมพ์โค้ดแก้บั๊ก (Code Debugging) |
+| 🕹️ Main Menu & Start Game | 🏃 Office Cable Repair |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/d2442892-5a6e-4f32-81aa-c1d21e5c64af" windth="100%" />| 
-| <img src="https://github.com/user-attachments/assets/d686e031-a553-40a6-be8b-21c071ab6279" windth="100%" />|
+| <img src="https://github.com/user-attachments/assets/08e33d4b-d87f-4707-91c0-80d996d3b574" width="100%" alt="Main Menu & Start Game" /> | <img src="https://github.com/user-attachments/assets/eda3f378-a5bd-493d-83e9-d76195371563" width="100%" alt="Office Cable Repair Gameplay" /> |
 
----
+| 🥊 Hacker Alert | 💻 Code Debugging |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/d2442892-5a6e-4f32-81aa-c1d21e5c64af" width="100%" alt="Hacker Alert Gameplay" /> | <img src="https://github.com/user-attachments/assets/d686e031-a553-40a6-be8b-21c071ab6279" width="100%" alt="Code Debugging Minigame" /> |
 
 ## 🎮 วิธีการเล่นและการควบคุม (Controls & How to Play)
 
