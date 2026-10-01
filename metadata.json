@@ -1,0 +1,6 @@
+{
+  "name": "IT Support Hero - ภารกิจช่างไอที กู้ชีพคอมพิวเตอร์",
+  "description": "เกม 3D ช่างไอทีประจำออฟฟิศ วิ่งซ่อมคอมพิวเตอร์ แข่งกับเวลา 3 นาที พร้อมระบบ Hacker บุกออฟฟิศใช้ไม้ทุบสกัด และมินิเกมพิมพ์โค้ดสู้มัลแวร์สุดมันส์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
