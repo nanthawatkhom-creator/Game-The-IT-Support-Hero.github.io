@@ -59,7 +59,8 @@
 
 | 🕹️ หน้าจอหลัก & เริ่มเกม (Main Menu) | 🏃 บรรยากาศการวิ่งซ่อมในออฟฟิศ (Gameplay) |
 | :---: | :---: |
-| | <!-- แปะรูป Gameplay วิ่งซ่อม ตรงนี้ --> <img src="https://placehold.co/600x380/0f172a/38bdf8?text=2.+Office+Troubleshoot+Action" width="100%" /> |
+| <img src="https://github.com/user-attachments/assets/08e33d4b-d87f-4707-91c0-80d996d3b574" windth="100%" />
+| <!-- แปะรูป Gameplay วิ่งซ่อม ตรงนี้ --> <img src="https://placehold.co/600x380/0f172a/38bdf8?text=2.+Office+Troubleshoot+Action" width="100%" /> |
 
 | 🥊 เผชิญหน้า Hacker (Hacker Alert!) | 💻 มินิเกมพิมพ์โค้ดแก้บั๊ก (Code Debugging) |
 | :---: | :---: |
