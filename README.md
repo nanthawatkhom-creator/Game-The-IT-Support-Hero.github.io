@@ -57,14 +57,15 @@
 
 > *คุณสามารถนำภาพ Screenshot แคปเจอร์จากในเกมมาแทนที่ลิงก์รูปภาพด้านล่างนี้ได้เลยครับ*
 
-| 🕹️ หน้าจอหลัก & เริ่มเกม (Main Menu) | 🏃 บรรยากาศการวิ่งซ่อมในออฟฟิศ (Gameplay) |
+| 🕹️ หน้าจอหลัก & เริ่มเกม (Main Menu) | 🏃 มินิเกมซ่อมสายไฟในออฟฟิศ (Gameplay) |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/08e33d4b-d87f-4707-91c0-80d996d3b574" windth="100%" />
-| <!-- แปะรูป Gameplay วิ่งซ่อม ตรงนี้ --> <img src="https://placehold.co/600x380/0f172a/38bdf8?text=2.+Office+Troubleshoot+Action" width="100%" /> |
+| <img src="https://github.com/user-attachments/assets/eda3f378-a5bd-493d-83e9-d76195371563" windth="100%" /> |
 
 | 🥊 เผชิญหน้า Hacker (Hacker Alert!) | 💻 มินิเกมพิมพ์โค้ดแก้บั๊ก (Code Debugging) |
 | :---: | :---: |
-| <!-- แปะรูป Hacker บุก ตรงนี้ --> <img src="https://placehold.co/600x380/0f172a/f43f5e?text=3.+Hacker+Battle+Encounter" width="100%" /> | <!-- แปะรูป มินิเกม Terminal ตรงนี้ --> <img src="https://placehold.co/600x380/0f172a/10b981?text=4.+Terminal+Mini-Game" width="100%" /> |
+| <img src="https://github.com/user-attachments/assets/d2442892-5a6e-4f32-81aa-c1d21e5c64af" windth="100%" />| 
+| <img src="https://github.com/user-attachments/assets/d686e031-a553-40a6-be8b-21c071ab6279" windth="100%" />|
 
 ---
 
