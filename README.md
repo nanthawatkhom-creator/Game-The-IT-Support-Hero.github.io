@@ -29,7 +29,8 @@
 <!-- 🖼️ ใส่รูป Banner หลักของเกมที่นี่ (แทนที่ลิงก์ด้านล่าง) -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="https://placehold.co/1200x500/1e293b/60a5fa?text=Put+Your+Main+Game+Banner+Here+(1200x500)" alt="Game Main Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+  <img src="[https://placehold.co/1200x500/1e293b/60a5fa?text=Put+Your+Main+Game+Banner+Here+](https://github.com/user-attachments/assets/cbede5e9-b2ed-4491-9306-899014a7ab34)(1200x500)" alt="Game Main Banner" width="100%" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+
 </div>
 
 <br/>
