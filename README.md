@@ -55,8 +55,6 @@
 
 ## 🖼️ ภาพถ่ายหน้าจอในเกม (Screenshots Gallery)
 
-> *คุณสามารถนำภาพ Screenshot แคปเจอร์จากในเกมมาแทนที่ลิงก์รูปภาพด้านล่างนี้ได้เลยครับ*
-
 ## 🖼️ ภาพถ่ายหน้าจอในเกม (Screenshots Gallery)
 
 | 🕹️ Main Menu & Start Game | 🏃 Office Cable Repair |
@@ -116,12 +114,6 @@
    ```text
    http://localhost:3000
    ```
-
-5. **Build สำหรับนำขึ้น GitHub Pages:**
-   ```bash
-   npm run build
-   ```
-
 ---
 
 ## 🤖 ขับเคลื่อนโดย Google AI Studio (Powered by Google AI Studio)
