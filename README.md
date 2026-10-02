@@ -18,7 +18,7 @@
 
 > 🎓 **Game Prototype:** โปรเจกต์นี้เป็นตัวต้นแบบเกม (Game Prototype) จากรายวิชา **Game Design II** มหาวิทยาลัยกรุงเทพ (**Bangkok University**)
 
-[🎮 เล่นเกมผ่านเว็บ (Live Demo)](https://github.com/nanthawatkhom-creator/CaselinkG5.github.io/actions/runs/36829757843) 
+[🎮 เล่นเกมผ่านเว็บ (Live Demo)](https://nanthawatkhom-creator.github.io/Game-The-IT-Support-Hero.github.io/) 
 </div>
 
 ---
